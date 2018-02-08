@@ -1,0 +1,20 @@
+{
+  "name": "jordan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "prompt": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkue3000/node-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkue3000/node-hangman/issues"
+  },
+  "homepage": "https://github.com/jkue3000/node-hangman#readme"
+}
